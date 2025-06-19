@@ -1,0 +1,5 @@
+show network *
+
+
+set network Corp_Servers_A SmartLink=Enabled
+set network Corp_Servers_B SmartLink=Enabled

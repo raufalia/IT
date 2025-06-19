@@ -1,0 +1,4 @@
+set snmp -help
+show snmp
+set snmp enet ReadCommunity=SSGRO EnableV1V2=true
+set snmp FC  ReadCommunity=SSGRO EnableV1V2=true

@@ -1,0 +1,66 @@
+ILO names updated
+
+>>>>>>>ILO Name change for Host by Enclosure SSH ENC-CO-DEN-35 - 172.25.32.127
+connect server 1
+set /map1/enetport1 SystemName=ENC-CO-DEN-35-Bay-1-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-35-Bay-2-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-35-Bay-6-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-35-Bay-9-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-35-Bay-14-ILO
+
+ENC-CO-DEN-35-Bay-1-ILO
+ENC-CO-DEN-35-Bay-2-ILO
+ENC-CO-DEN-35-Bay-6-ILO
+ENC-CO-DEN-35-Bay-9-ILO
+ENC-CO-DEN-35-Bay-14-ILO
+------------------------------------------------------------
+ENC-CO-DEN-36 - 172.25.32.101
+connect server 1
+set /map1/enetport1 SystemName=ENC-CO-DEN-36-Bay-1-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-36-Bay-2-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-36-Bay-6-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-36-Bay-9-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-36-Bay-14-ILO
+
+ENC-CO-DEN-35-Bay-1-ILO
+ENC-CO-DEN-35-Bay-2-ILO
+ENC-CO-DEN-35-Bay-6-ILO
+ENC-CO-DEN-35-Bay-9-ILO
+ENC-CO-DEN-35-Bay-14-ILO
+------------------------------------------------------------
+ENC-CO-DEN-37  ILO names 
+connect server 1
+set /map1/enetport1 SystemName=ENC-CO-DEN-37-Bay-1-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-37-Bay-2-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-37-Bay-3-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-37-Bay-4-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-37-Bay-9-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-37-Bay-10-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-37-Bay-11-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-37-Bay-12-ILO
+------------------------------------------------------------
+ENC-CO-DEN-38  ILO names 
+connect server 1
+set /map1/enetport1 SystemName=ENC-CO-DEN-38-Bay-1-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-38-Bay-2-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-38-Bay-3-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-38-Bay-4-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-38-Bay-9-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-38-Bay-10-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-38-Bay-11-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-38-Bay-12-ILO
+-----------------------------------------------------------
+ENC-CO-DEN-10  ILO names updated Done
+
+ENC-CO-DEN-26  ILO names Done
+connect server 1
+set /map1/enetport1 SystemName=ENC-CO-DEN-26-Bay-1-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-26-Bay-2-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-26-Bay-3-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-26-Bay-4-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-26-Bay-5-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-26-Bay-9-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-26-Bay-10-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-26-Bay-11-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-26-Bay-12-ILO
+set /map1/enetport1 SystemName=ENC-CO-DEN-26-Bay-13-ILO
